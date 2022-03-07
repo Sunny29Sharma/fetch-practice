@@ -1,1 +1,2 @@
-
+this is check3.txt file
+I had made changes
